@@ -1,0 +1,62 @@
+.calendario{
+    width: 1050px;
+    height: 520px;
+    background-color: rgba(248, 248, 248, 0.671);
+}
+
+.julho{
+    text-align: center;
+    font-family: Verdana;
+}
+.b{
+    border-radius: 5px;
+    border-style: solid;
+    font-family: Arial;
+}
+
+.dn{
+ 
+    width: 145px;
+    height: 20px;
+    float: left;
+    text-align: center;
+    margin-left: 4px;
+}
+.ds{
+    width: 145px;
+    height: 60px;
+    text-align: center;
+    float: left;
+    margin-left: 4px;
+    margin-top: 2px;
+}
+.cm{
+    background-color: rgb(255, 255, 98);
+    color: red;
+    width: 100px;
+}
+
+.cinza
+{
+    background-color: rgb(211, 211, 211);
+}
+
+#roxo
+{
+    background-color: #ccccfc;
+    color: blue;
+}
+
+.V
+{
+    color: green;
+}
+
+#s1{  
+    margin-left: 250px;
+}
+#s2
+{
+    margin-left: 270px;
+    float: left;
+}
